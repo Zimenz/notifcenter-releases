@@ -1,9 +1,9 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "release_date": "2026-06-26",
-  "zip_url": "https://github.com/Zimenz/notifcenter/releases/download/v1.0.3/notifcenter-v1.0.3.zip",
+  "zip_url": "https://github.com/Zimenz/notifcenter/releases/download/v1.0.4/notifcenter-v1.0.4.zip",
   "min_php": "8.0",
   "changelog": [
-    "**Full Changelog**: https://github.com/Zimenz/notifcenter/compare/v1.0.2...v1.0.3"
+    "**Full Changelog**: https://github.com/Zimenz/notifcenter/compare/v1.0.3...v1.0.4"
   ]
 }

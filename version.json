@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "release_date": "2025-06-26",
+  "zip_url": "https://github.com/Zimenz/notifcenter-releases/releases/download/v1.0.0/notifcenter-v1.0.0.zip",
+  "min_php": "8.0",
+  "changelog": [
+    "Initial release"
+  ]
+}
